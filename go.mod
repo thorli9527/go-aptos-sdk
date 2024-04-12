@@ -1,4 +1,4 @@
-module github.com/coming-chat/go-aptos
+module github.com/thorli9527/go-aptos
 
 go 1.18
 
